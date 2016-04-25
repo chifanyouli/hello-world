@@ -3,4 +3,4 @@ lab tutorial
 
 hello,
 
-here is a lab prictice about github.
+here is a lab practice about github.
